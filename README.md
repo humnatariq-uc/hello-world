@@ -1,2 +1,6 @@
 # hello-world
-My first local and remote repository
+
+First Git repository.
+
+If you're reading this after my push,
+then I probably did something right 😄
